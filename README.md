@@ -2,7 +2,7 @@
 
 # 👾 Dylan Oazen
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Backend+Developer+from+Brazil+🇧🇷;ERP+Wizard+%26+API+Enjoyer+⚡;Building+weird+stuff+with+PHP%2C+Go+and+AI+🤖;Dockerizing+everything+since+forever+🐳;Currently+surviving+production+bugs+☕" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Backend+Engineer+from+Brazil+🇧🇷;ERP+Wizard+%26+API+Enjoyer+⚡;Building+weird+stuff+with+PHP%2C+Go+and+AI+🤖;Dockerizing+everything+since+forever+🐳;Currently+fighting+production+bugs+☕" />
 
 <br>
 
@@ -18,7 +18,7 @@
 > whoami
 
 Name: Dylan Oazen
-Role: Backend / FullStack Developer
+Role: Backend / Systems Engineer
 Focus: APIs, ERP Systems, Automation & AI
 Currently Learning: Go, Distributed Systems & Cloud
 Coffee Dependency: High ☕
@@ -26,11 +26,34 @@ Production Fear Level: Medium
 ```
 
 - 🏗️ Building real-world ERP systems and integrations  
-- ⚡ Automating boring things with AI and scripts  
+- 🔌 Working with APIs, automation and backend architecture  
+- 🤖 Automating workflows with AI & scripting  
 - 🐳 Docker addict  
-- 🔥 Exploring Go for high-performance backend systems  
+- ⚡ Exploring distributed systems and concurrency with Go  
 - 🌍 Open to international opportunities & relocation  
-- 🧩 I like solving messy business problems with code  
+- 🧩 Solving messy business problems with code  
+
+---
+
+# ⚡ What I Actually Do
+
+- 🔌 Integrating ERPs, marketplaces and external APIs
+- 🏗️ Building business-critical backend systems
+- 📦 Working with relational databases & data migration
+- 🤖 Automating workflows with AI and scripting
+- 🐳 Containerizing applications with Docker
+- 🔥 Exploring distributed systems with Go
+
+---
+
+# 🏢 Real World Experience
+
+- Fiscal ERP operations (NF-e, GNRE, tax rules)
+- Marketplace integrations (Mercado Livre, VTEX, Linx, AnyMarket)
+- Industrial production management systems
+- API integrations & automation pipelines
+- Data migration between relational databases
+- Internal tooling & workflow optimization
 
 ---
 
@@ -59,7 +82,7 @@ Production Fear Level: Medium
 
 ---
 
-### 🐳 Infra & Tools
+### 🐳 Infra & DevOps
 
 <img alt="Docker" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img alt="Linux" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -67,7 +90,34 @@ Production Fear Level: Medium
 <img alt="GitHub" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 <img alt="Apache" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
 
+---
+
+### 🤖 AI & Automation
+
+<img alt="Claude" height="55" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png">
+
+<img alt="ChatGPT" height="55" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
+
 </div>
+
+---
+
+# 🚧 Building Now
+
+- ⚡ Mini Redis clone in Go
+- 🤖 AI-powered ERP assistant
+- 🐳 Dockerized backend environments
+- 🔥 Event-driven backend experiments
+
+---
+
+# 🧪 Currently Experimenting With
+
+- Distributed systems
+- Redis internals
+- Concurrent programming with Go
+- AI agents & workflow automation
+- Backend performance optimization
 
 ---
 
@@ -82,16 +132,6 @@ Production Fear Level: Medium
 <img src="https://streak-stats.demolab.com?user=dylanoazen&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🚀 Current Side Quests
-
-- ⚡ Building backend systems with Go
-- 🧠 Studying distributed systems & Redis internals
-- 🤖 AI automation for enterprise workflows
-- 🐳 Improving DevOps & Docker skills
-- 🌍 Preparing for international tech opportunities
 
 ---
 
@@ -121,14 +161,15 @@ Production Fear Level: Medium
 
 <div align="center">
 
-### 💭 Random Dev Quote
+## 💭 Developer Philosophy
 
-```cpp
-while(alive) {
-    eat();
-    code();
-    sleep();
-    repeat();
+```go
+for alive {
+    learn()
+    build()
+    break_things()
+    fix_things()
+    repeat()
 }
 ```
 
