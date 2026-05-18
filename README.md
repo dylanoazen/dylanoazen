@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me  
 - 💡 Passionate about technology and knowledge, and always seeking to improve myself with new technologies.
 - 🔭 Currently working as a *PHP Developer*  
-- 🎓 Bachelor's degree in *Systems Analysis and Development Studen*.  
+- 🎓 Bachelor's degree in *Systems Analysis and Development*.  
 - 🌱 Always learning new technologies and improving my skills.
 
 ---
