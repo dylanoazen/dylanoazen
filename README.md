@@ -1,15 +1,18 @@
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0d1117,100:1f6feb&text=Dylan%20Oazen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20Engineer%20•%20Go%20•%20ERP%20Systems%20•%20Automation&descAlignY=60&descSize=18"
+  />
+</p>
+
 <div align="center">
 
-# 👾 Dylan Oazen
+```txt
+Building backend systems, integrations and automation tools.
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Backend+Engineer+from+Brazil+🇧🇷;ERP+Wizard+%26+API+Enjoyer+⚡;Building+weird+stuff+with+PHP%2C+Go+and+AI+🤖;Dockerizing+everything+since+forever+🐳;Currently+fighting+production+bugs+☕" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dylanoazen&theme=matrix&no-frame=true&row=1&column=6" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Exploring+distributed+systems+with+Go;Working+with+ERPs%2C+APIs+and+AI+automation;Building+real-world+backend+solutions" />
 
 </div>
-
 ---
 
 # 🧠 About Me
@@ -75,9 +78,9 @@ Production Fear Level: Medium
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/openai/white" height="55" alt="OpenAI" />
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="55" alt="Claude" />
 
-<img src="https://cdn.simpleicons.org/anthropic/white" height="55" alt="Anthropic" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="55" alt="ChatGPT" />
 
 </div>
 
@@ -106,9 +109,9 @@ Production Fear Level: Medium
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dylanoazen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=dylanoazen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanoazen&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dylanoazen&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
