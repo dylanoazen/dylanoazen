@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Backend+Engineer+from+Brazil+🇧🇷;ERP+Wizard+%26+API+Enjoyer+⚡;Building+weird+stuff+with+PHP%2C+Go+and+AI+🤖;Dockerizing+everything+since+forever+🐳;Currently+fighting+production+bugs+☕" />
 
-<br>
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=dylanoazen&theme=matrix&no-frame=true&row=1&column=6" />
 
@@ -61,42 +61,23 @@ Production Fear Level: Medium
 
 <div align="center">
 
-### 👨‍💻 Backend & Languages
+<img src="https://skillicons.dev/icons?i=go,php,python,javascript,react,laravel,postgres,mysql,docker,linux,git,github,redis&perline=7" />
 
-<img alt="PHP" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img alt="Go" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-<img alt="Python" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img alt="JavaScript" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-<img alt="Laravel" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
-<img alt="React" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<br><br>
 
----
+<img src="https://skillicons.dev/icons?i=vscode,postman,bash,cloudflare,nginx,ubuntu&perline=6" />
 
-### 🗄️ Databases & Integrations
-
-<img alt="PostgreSQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-<img alt="MySQL" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img alt="MariaDB" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg">
-<img alt="SQLite" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-<img alt="Postman" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+</div>
 
 ---
 
-### 🐳 Infra & DevOps
+# 🤖 AI & Automation
 
-<img alt="Docker" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img alt="Linux" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img alt="Git" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img alt="GitHub" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img alt="Apache" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
+<div align="center">
 
----
+<img src="https://cdn.simpleicons.org/openai/white" height="55" alt="OpenAI" />
 
-### 🤖 AI & Automation
-
-<img alt="Claude" height="55" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png">
-
-<img alt="ChatGPT" height="55" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
+<img src="https://cdn.simpleicons.org/anthropic/white" height="55" alt="Anthropic" />
 
 </div>
 
@@ -129,7 +110,23 @@ Production Fear Level: Medium
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylanoazen&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
 <img src="https://streak-stats.demolab.com?user=dylanoazen&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💭 Daily Chaos
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 
 </div>
 
@@ -161,14 +158,14 @@ Production Fear Level: Medium
 
 <div align="center">
 
-## 💭 Developer Philosophy
+# 💀 Developer Philosophy
 
 ```go
 for alive {
     learn()
     build()
-    break_things()
-    fix_things()
+    breakThings()
+    fixThings()
     repeat()
 }
 ```
