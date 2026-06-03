@@ -105,22 +105,6 @@ Production Fear Level: Medium
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=dylanoazen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dylanoazen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=dylanoazen&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 💭 Daily Chaos
 
 <div align="center">
